@@ -10,7 +10,3 @@ Latest Telegram Posts
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript)
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=Angular)
 ![React](https://img.shields.io/badge/-React-blue?logo=JSX)
-
-## Follow Me
-
-[![Telegram] (https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/SourceDockme)
