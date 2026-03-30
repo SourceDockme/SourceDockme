@@ -10,3 +10,4 @@
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=Angular)
 ![React](https://img.shields.io/badge/-React-blue?logo=JSX)
 ![Git](https://img.shields.io/badge/-Git-white?logo=Git)
+![Vue](https://img.shields.io/badge/-Vue-green?logo=Vue)
