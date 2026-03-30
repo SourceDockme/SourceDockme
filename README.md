@@ -9,5 +9,7 @@ Language and Tools
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript)
+![Angular](https://img.shields.io/badge/-Angular-red?logo=Angular)
+![React](https://img.shields.io/badge/-React-acua?logo=Raect)
 
 Follow Me
