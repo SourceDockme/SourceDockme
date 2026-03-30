@@ -6,8 +6,8 @@ Latest Telegram Posts
 
 Language and Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=VisualStudioCode)
-![HTML](https://img.shields.io/badge/-VSCode-orange?logo=HTML)
+![HTML](https://img.shields.io/badge/-VSCode-orange?logo=HtmlL)
 ![CSS](https://img.shields.io/badge/-VSCode-blue?logo=CSS)
-![JavaScript](https://img.shields.io/badge/-VSCode-yellow?logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript)
 
 Follow Me
