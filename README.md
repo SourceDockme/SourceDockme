@@ -4,7 +4,6 @@
 
 Latest Telegram Posts
 
-Language and Tools
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=VisualStudioCode)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=CSS)
@@ -12,4 +11,6 @@ Language and Tools
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=Angular)
 ![React](https://img.shields.io/badge/-React-blue?logo=JSX)
 
-Follow Me
+## Follow Me
+
+![Telegram] (https://img.shields.io/badge/-Telegram-blue?logo=telegram)(https://t.me/SourceDockme)
