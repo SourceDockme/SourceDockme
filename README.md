@@ -5,7 +5,7 @@
 Latest Telegram Posts
 
 Language and Tools
-![Flutter](https://img.shields.io/badge/-VSCode-blue?logo=vscode)
+![Flutter](https://img.shields.io/badge/-VSCode-blue?logo=code)
 ![Flutter](https://img.shields.io/badge/VSCode-8A2BE2)
 ![Flutter](https://img.shields.io/badge/VSCode-8A2BE2)
 ![Flutter](https://img.shields.io/badge/VSCode-8A2BE2)
