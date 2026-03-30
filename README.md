@@ -2,8 +2,6 @@
 
 ## I'm a Frontend Software Engeneer
 
-Latest Telegram Posts
-
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=VisualStudioCode)
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=CSS)
