@@ -3,6 +3,7 @@
 ## I'm a Frontend Software Engeneer
 
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=VisualStudioCode)
+<br>
 ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript)
