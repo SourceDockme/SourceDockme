@@ -13,4 +13,4 @@ Latest Telegram Posts
 
 ## Follow Me
 
-![Telegram] (https://img.shields.io/badge/-Telegram-blue?logo=telegram)(https://t.me/SourceDockme)
+[![Telegram] (https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/SourceDockme)
