@@ -10,6 +10,6 @@ Language and Tools
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript)
 ![Angular](https://img.shields.io/badge/-Angular-red?logo=Angular)
-![React](https://img.shields.io/badge/-React-acua?logo=Raect)
+![React](https://img.shields.io/badge/-React-blue?logo=RaectJS)
 
 Follow Me
