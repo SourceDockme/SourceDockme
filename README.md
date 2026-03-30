@@ -5,10 +5,9 @@
 Latest Telegram Posts
 
 Language and Tools
-![Flutter](https://img.shields.io/badge/-VSCode-blue?logo=code)
-![Flutter](https://img.shields.io/badge/VSCode-8A2BE2)
-![Flutter](https://img.shields.io/badge/VSCode-8A2BE2)
-![Flutter](https://img.shields.io/badge/VSCode-8A2BE2)
-![Flutter](https://img.shields.io/badge/VSCode-8A2BE2)
+![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=VisualStudioCode)
+![HTML](https://img.shields.io/badge/-VSCode-orange?logo=HTML)
+![CSS](https://img.shields.io/badge/-VSCode-blue?logo=CSS)
+![JavaScript](https://img.shields.io/badge/-VSCode-yellow?logo=JavaScript)
 
 Follow Me
