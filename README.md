@@ -15,17 +15,6 @@
 - ⚙️ Backend Architecture
 - 🎨 UI/UX Design
 - 🚀 Performance Optimization
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/SourceDockme">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SourceDockme&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="SourceDockme's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=SourceDockme&theme=radical&hide_border=true&cache_seconds=86400" alt="SourceDockme's GitHub Streak" width="49%" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
